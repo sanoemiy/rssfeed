@@ -1,1 +1,1 @@
-worker: python3 rss.py
+web: python3 rss.py
