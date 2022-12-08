@@ -1,4 +1,10 @@
 # RSS Feed Telegram Bot
+
+## Scalingo Deploy
+
+[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/sanoemiy/rssfeed#main)
+
+
 A bot to post messages to Telegram Groups or Channels from rss feed.
 - This bot can also send /mirror commands to your mirror bot using your telegram account.
 bcoz bot can't read another bot's mag. So this bot will use your TG account to interact with mirror bot.
