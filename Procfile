@@ -1,1 +1,2 @@
-web: python3 rss.py
+web: python -m http.server $PORT
+worker: python3 rss.py
